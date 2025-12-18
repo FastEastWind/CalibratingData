@@ -1,18 +1,19 @@
-{ "VoltageC": [
-        4.204,
-        4.204,
-        4.204,
-        4.134,
-        4.143,
-        4.182
+{
+	"VoltageC": [
+		4.312,
+		4.312,
+		4.312,
+		4.333,
+		4.338,
+		4.320
 	],
 	"CurrentC": [
-        7.367,
-        7.367,
-        7.367,
-        7.254,
-        7.254,
-        7.254
+		13.667,
+		13.667,
+		13.667,
+		13.921,
+		13.921,
+		13.921
 	],
 	"Pilot12v": [
 		4080,
@@ -47,18 +48,18 @@
 		0
 	],
 	"TryStartAgain": [
-		1
+		0
 	],
 	"ShimMode": 2,
 	"ChargConnectDelay": 2500,
 	"ChargReadyDelay": 2500,
 	"ReadyConnectDelay": 1250,
 	"CurrentLimit": [
-		40,
+		32,
 		32
 	],
 	"ConnectorPresent": [
-		true,
+	        false,
 		true
 	],
 	"ConnectorType": [
